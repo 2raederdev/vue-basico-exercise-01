@@ -1,6 +1,6 @@
-# vue-basico-exercise-01
+# Platzi: Curso Básico Vue.js
 
-<h1>Práctica Módulo 2</h1>
+<h2>Práctica Módulo 2</h2>
 <p>Armar un simple “tracker” de cursos, que permita calcular y registrar la cantidad cursos de Platzi tomados y obtener la suma de las horas invertidas en tu educacion.</p>
 
 <p>Haz fork de este CodePen para obtener la estructura basica del proyecto: https://codepen.io/ianaya89/pen/rNNZYLY </p>
